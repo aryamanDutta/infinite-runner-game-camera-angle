@@ -1,1 +1,2 @@
-# infinite-runner-game-camera-angle
+# P38-InfiniteRunner-Trex-GameCamera
+Trex Colorful Game Camera
